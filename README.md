@@ -31,4 +31,4 @@ Credits:
 
 That's it! Thanks for checking it out. :)
 
-If you liked, you can download it from here: css file It is currently under approval for display in community theme store inside the obsidian app. Once approved, you can search "Wise Light" in the theme store and directly download and enable from the app itself.
+If you liked, you can download it from here: [css](https://github.com/learnerfvs/WiseLight/blob/main/obsidian.css) file It is currently under approval for display in community theme store inside the obsidian app. Once approved, you can search "Wise Light" in the theme store and directly download and enable from the app itself.
