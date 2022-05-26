@@ -7,7 +7,7 @@ The theme heavily concentrates on hover based color changes for visual learning.
 
 Credits:
 1. "Dracula for Obsidian" Theme Developer for simplyfing theme development.
-2. SIRvb discord contibutor of Obsidian Members Group discord for helping me out with queries!
+2. SIRvb and Pseudometa from Obsidian Members discord group for helping me out with queries!
 3. And many other supporting members of discord Obsidian server and its channel for theme developers.
 4. Obsidian official guides
 
